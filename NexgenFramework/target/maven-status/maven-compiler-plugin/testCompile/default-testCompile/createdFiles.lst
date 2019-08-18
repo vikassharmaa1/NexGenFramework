@@ -1,0 +1,7 @@
+com\freecrm\utility\ConfigDataProvider.class
+com\freecrm\pages\LoginPage.class
+com\freecrm\utility\BaseClass.class
+com\freecrm\utility\Helper.class
+com\freecrm\utility\ExcelDataProvider.class
+com\freecrm\utility\BrowserFactory.class
+com\freecrm\testcases\LoginTestCRM.class
