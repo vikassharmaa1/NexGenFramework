@@ -20,12 +20,12 @@
       <![CDATA[Test completed >> Reports generated.]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="17362" started-at="2019-08-18T03:22:22Z" finished-at="2019-08-18T03:22:39Z">
+  <suite name="Suite" duration-ms="17568" started-at="2019-08-18T04:17:09Z" finished-at="2019-08-18T04:17:26Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="17362" started-at="2019-08-18T03:22:22Z" finished-at="2019-08-18T03:22:39Z">
+    <test name="Test" duration-ms="17568" started-at="2019-08-18T04:17:09Z" finished-at="2019-08-18T04:17:26Z">
       <class name="com.freecrm.testcases.LoginTestCRM">
-        <test-method status="PASS" signature="setupSuite()[pri:0, instance:com.freecrm.testcases.LoginTestCRM@1e67b872]" name="setupSuite" is-config="true" duration-ms="759" started-at="2019-08-18T08:52:21Z" finished-at="2019-08-18T08:52:22Z">
+        <test-method status="PASS" signature="setupSuite()[pri:0, instance:com.freecrm.testcases.LoginTestCRM@1e67b872]" name="setupSuite" is-config="true" duration-ms="702" started-at="2019-08-18T09:47:08Z" finished-at="2019-08-18T09:47:09Z">
           <reporter-output>
             <line>
               <![CDATA[Configuring Reports & getting test started..]]>
@@ -35,7 +35,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- setupSuite -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.freecrm.testcases.LoginTestCRM@1e67b872]" name="setup" is-config="true" duration-ms="12230" started-at="2019-08-18T08:52:22Z" finished-at="2019-08-18T08:52:34Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.freecrm.testcases.LoginTestCRM@1e67b872]" name="setup" is-config="true" duration-ms="12137" started-at="2019-08-18T09:47:09Z" finished-at="2019-08-18T09:47:21Z">
           <reporter-output>
             <line>
               <![CDATA[Trying to start browser & getting application ready..]]>
@@ -45,11 +45,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginApp()[pri:0, instance:com.freecrm.testcases.LoginTestCRM@1e67b872]" name="loginApp" duration-ms="3115" started-at="2019-08-18T08:52:34Z" finished-at="2019-08-18T08:52:37Z">
+        <test-method status="PASS" signature="loginApp()[pri:0, instance:com.freecrm.testcases.LoginTestCRM@1e67b872]" name="loginApp" duration-ms="3371" started-at="2019-08-18T09:47:21Z" finished-at="2019-08-18T09:47:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginApp -->
-        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.freecrm.testcases.LoginTestCRM@1e67b872]" name="tearDownMethod" is-config="true" duration-ms="792" started-at="2019-08-18T08:52:37Z" finished-at="2019-08-18T08:52:38Z">
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.freecrm.testcases.LoginTestCRM@1e67b872]" name="tearDownMethod" is-config="true" duration-ms="856" started-at="2019-08-18T09:47:24Z" finished-at="2019-08-18T09:47:25Z">
           <params>
             <param index="0">
               <value>
@@ -66,7 +66,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.freecrm.testcases.LoginTestCRM@1e67b872]" name="tearDown" is-config="true" duration-ms="1215" started-at="2019-08-18T08:52:38Z" finished-at="2019-08-18T08:52:39Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.freecrm.testcases.LoginTestCRM@1e67b872]" name="tearDown" is-config="true" duration-ms="1195" started-at="2019-08-18T09:47:25Z" finished-at="2019-08-18T09:47:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
